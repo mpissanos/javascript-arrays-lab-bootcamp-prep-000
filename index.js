@@ -1,2 +1,6 @@
 var kittens = ["Milo", "Otis", "Garfield"]
-function disrupti
+
+
+function destructivelyAppendKitten(name) {
+  
+}
